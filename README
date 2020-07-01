@@ -1,7 +1,10 @@
-dwm - dynamic window manager
+Jackson's Build of dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
 
+This is my build of dwm that I am customizing. I have a version of
+dwm that I use on my x220 thinkpad that I like a good deal, but
+I want to build one that has a few more features.
 
 Requirements
 ------------
